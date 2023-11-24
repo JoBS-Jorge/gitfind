@@ -1,0 +1,21 @@
+.search__bar {
+    border-radius: 20px;
+    border: 1px solid #999999;
+    font-size: 18px;
+    padding: 10px;
+    min-width: 250px;
+    width: 85%;
+    margin-right: 15px;
+    background: transparent;
+    color: #ffffff;
+}
+
+.search__button {
+    color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid #999999;
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 15px;
+    background: transparent;
+}

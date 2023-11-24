@@ -1,0 +1,34 @@
+.main-card {
+    margin-top: 10px;
+    display: flex;
+}
+
+.main-card__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.main-card__info > h3 {
+    margin-bottom: 5px;
+    font-size: 24px
+}
+
+.main-card__info > span {
+    display: block;
+    color: #BDBDBD;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.main-card__info > p {
+    color: #BDBDBD;
+    font-size: 18px;
+}
+
+.main-card__img {
+    border: 3px solid #BDBDBD;
+    border-radius: 500px;
+    width: 200px;
+}
